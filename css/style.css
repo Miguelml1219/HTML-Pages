@@ -222,7 +222,7 @@ h1.tittle span {              /*especificidad da prioridad a las que poseen mas 
 
 .form1{
     background-color: var(--white);
-    width: min (60rem,100%);
+    width: min(60rem,100%);
     margin: 0 auto;
     padding: 2rem;
     border-radius: 1rem;
